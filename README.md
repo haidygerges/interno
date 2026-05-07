@@ -1,29 +1,36 @@
-@"
 # Interno - Interior Design Website
 
-![Hero Preview](./images/HERO-SETION.jpg)
+![Hero Section](./images/HERO-SETION.jpg)
 
-Modern and elegant interior design landing page built with pure **HTML & CSS**.
+**Modern and elegant interior design landing page** built with pure **HTML & CSS**.
+
+---
 
 ## ✨ Live Demo
 
-**[View Live Demo →](https://haidygerges.github.io/interno)**
+**[👉 View Live Website](https://haidygerges.github.io/interno)**
+
+---
 
 ## ✨ Features
 
 - Fully Responsive Design (Mobile + Tablet + Desktop)
-- Stunning Hero Section with Overlay
-- Clean Services Section
-- Testimonials Carousel
-- Blog Grid Layout
+- Beautiful Hero Section with Overlay
+- Services Section (Interior Design, Furniture, Flooring)
+- "We Tackle The Most Challenging Designs" Section
+- Customer Testimonials
+- Recent Blog Posts
 - Smooth Hover Animations & Transitions
-- Professional Typography & Color Scheme
+
+---
 
 ## 🛠 Technologies
 
 - HTML5
-- CSS3 (Flexbox + CSS Grid + Custom Properties)
-- Fully Responsive (Mobile-First)
+- CSS3 (Flexbox + Grid + CSS Variables)
+- Fully Responsive (Mobile-First Approach)
+
+---
 
 ## 📁 Project Structure
 interno/
@@ -38,13 +45,14 @@ interno/
 ├── README.md
 └── .gitignore
 
+
+---
+
 ## 🚀 How to Run Locally
 
-1. Clone the repository
+1. Clone or download the repository
 2. Open `index.html` in your browser
 
-## 👨‍💻 Author
-
-**Hady Gerges**
 ---
-"@ | Out-File -Encoding utf8 README.md
+
+**Made by Hady Gerges**
