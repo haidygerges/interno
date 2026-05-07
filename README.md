@@ -19,7 +19,7 @@
 - Services Section (Interior Design, Furniture, Flooring)
 - "We Tackle The Most Challenging Designs" Section
 - Customer Testimonials
-- Recent Blog Posts
+- Recent Blog Posts Grid
 - Smooth Hover Animations & Transitions
 
 ---
@@ -28,11 +28,13 @@
 
 - HTML5
 - CSS3 (Flexbox + Grid + CSS Variables)
-- Fully Responsive (Mobile-First Approach)
+- Fully Responsive (Mobile-First)
 
 ---
 
 ## 📁 Project Structure
+
+```bash
 interno/
 ├── index.html
 ├── css/
@@ -51,6 +53,7 @@ interno/
 ## 🚀 How to Run Locally
 
 1. Clone or download the repository
+  git clone https://github.com/haidygerges/interno.git
 2. Open `index.html` in your browser
 
 ---
