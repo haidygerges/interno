@@ -54,7 +54,3 @@ interno/
 │   └── ...
 ├── README.md
 └── .gitignore
-
----
-
-**Made by Hady Gerges**
