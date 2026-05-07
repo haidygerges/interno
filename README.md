@@ -47,13 +47,13 @@ interno/
 │   └── ...
 ├── README.md
 └── .gitignore
-```markdown
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/haidygerges/interno.git
-2. **Open `index.html` in your browser**
+2. Open `index.html` in your browser
+---
 
 **Made by Hady Gerges**
 2ز
