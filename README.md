@@ -47,12 +47,14 @@ interno/
 │   └── ...
 ├── README.md
 └── .gitignore
+
+---
+
 ## 🚀 How to Run Locally
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/haidygerges/interno.git
+1. Clone or download the repository
 2. Open `index.html` in your browser
+
 ---
 
 **Made by Hady Gerges**
