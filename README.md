@@ -43,19 +43,17 @@ interno/
 │   ├── HERO-SETION.jpg
 │   ├── client-image-1.jpg
 │   ├── client-image-2.jpg
+│   ├── client-image-3.jpg
 │   └── ...
 ├── README.md
 └── .gitignore
-
-
----
-
+```markdown
 ## 🚀 How to Run Locally
 
-1. Clone or download the repository
-  git clone https://github.com/haidygerges/interno.git
-2. Open `index.html` in your browser
-
----
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/haidygerges/interno.git
+2. **Open `index.html` in your browser**
 
 **Made by Hady Gerges**
+2ز
