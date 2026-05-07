@@ -39,8 +39,6 @@
 
 ---
 
-**Made by Hady Gerges**
-
 ## 📁 Project Structure
 
 ```bash
@@ -56,3 +54,7 @@ interno/
 │   └── ...
 ├── README.md
 └── .gitignore
+
+---
+
+**Made by Hady Gerges**
