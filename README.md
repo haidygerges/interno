@@ -32,9 +32,6 @@
 
 ---
 
-
----
-
 ## 🚀 How to Run Locally
 
 1. Clone or download the repository
