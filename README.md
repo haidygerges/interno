@@ -32,6 +32,18 @@
 
 ---
 
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone or download the repository
+2. Open `index.html` in your browser
+
+---
+
+**Made by Hady Gerges**
+
 ## 📁 Project Structure
 
 ```bash
